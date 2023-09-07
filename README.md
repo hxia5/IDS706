@@ -5,6 +5,8 @@ This is a repo template for course 706_Data_Engineering Week 1 Mini Project. It 
 
 workflows including GitHub Actions
 
+vscode including settings
+
 .gitignore
 
 Makefile
